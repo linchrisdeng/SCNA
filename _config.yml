@@ -16,7 +16,7 @@ exclude_patterns            : [ README.md, Thumbs.db, .DS_Store, "**.ipynb_check
 #######################################################################################
 # Execution settings
 execute:
-  execute_notebooks: "cache"
+  execute_notebooks: "force"
   # cache            : ""
   
 #######################################################################################
