@@ -2,7 +2,17 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: content/markdown
-- file: content/notebooks
+root: index
+parts: 
+  - caption: Course Overview
+    chapters:
+    - file: content/markdown
+    - file: content/notebooks
+      # sections:
+      # - file: path/to/part1/chapter2/section1
+
+
+# - part: Matrix Algebra
+#     chapters:
+#     - file: content/markdown
+#     - file: content/notebooks
