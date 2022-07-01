@@ -8,12 +8,28 @@ parts:
     chapters:
     - file: content/markdown
     - file: content/notebooks
-    - file: content/algebra_with_matrix
+    # - file: content/algebra_with_matrix
+  - caption: Basics
+    chapters:
+    - file: content/Part_I/index
+      sections:
+      - file: content/Part_I/algebra_with_matrix
+  # - caption: Numeric Optimization
+  #   chapters:
+  #     - file: content/algebra_with_matrix
+  # - caption: Differential Equations
+  #   chapters:
+  #     - file: content/algebra_with_matrix
+  # - caption: Linear Systems
+  # - caption: Simple Latent State Model
+  # - caption: 
       # sections:
       # - file: path/to/part1/chapter2/section1
 
 
-# - part: Matrix Algebra
-#     chapters:
-#     - file: content/markdown
-#     - file: content/notebooks
+  # - caption: Name of Part 2
+  #   chapters:
+  #   - file: path/to/part2/chapter1
+  #   - file: path/to/part2/chapter2
+  #     sections:
+  #     - file: path/to/part2/chapter2/section1
