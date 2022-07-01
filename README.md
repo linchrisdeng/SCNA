@@ -1,3 +1,3 @@
 # SCNA
 Scientific Computing &amp; Numerical Analysis
-![]{https://linchrisdeng.github.io/SCNA/}
+[LINK]{https://linchrisdeng.github.io/SCNA/}
